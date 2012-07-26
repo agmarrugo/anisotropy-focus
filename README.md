@@ -16,9 +16,11 @@ These are some basic instructions for using the code. If you run `testFM.m` you'
 
 For further details see our paper:
 
-A.G. Marrugo et al,"Anisotropy-based robust focus measure for
-non-mydriatic retinal imaging",Journal of Biomedical Optics 17(8),
-XXXXXX, 2012.
+
+A. G. Marrugo et al., &quot;Anisotropy-based robust focus measure for
+non-mydriatic retinal imaging&quot;, J. Biomed. Opt., vol. 17 (7), p. 076021,
+2012.
+[doi:10.1117/1.JBO.17.7.076021](http://dx.doi.org/10.1117/1.JBO.17.7.076021)
 
 Created by Andres Marrugo on 2012-07-10.   
 Copyright (c)  Andres Marrugo. All rights reserved.
