@@ -21,6 +21,7 @@ A. G. Marrugo et al., &quot;Anisotropy-based robust focus measure for
 non-mydriatic retinal imaging&quot;, J. Biomed. Opt., vol. 17 (7), p. 076021,
 2012.
 [doi:10.1117/1.JBO.17.7.076021](http://dx.doi.org/10.1117/1.JBO.17.7.076021)
+[download pdf](https://github.com/downloads/agmarrugo/anisotropy-focus/J.%20Biomed.%20Opt._Marrugo_2012.pdf)
 
 Created by Andres Marrugo on 2012-07-10.   
 Copyright (c)  Andres Marrugo. All rights reserved.
