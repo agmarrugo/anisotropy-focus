@@ -23,8 +23,8 @@ non-mydriatic retinal imaging&quot;, J. Biomed. Opt., vol. 17 (7), p. 076021,
 [doi:10.1117/1.JBO.17.7.076021](http://dx.doi.org/10.1117/1.JBO.17.7.076021)
 [download pdf](https://github.com/downloads/agmarrugo/anisotropy-focus/J.%20Biomed.%20Opt._Marrugo_2012.pdf)
 
-A. G. Marrugo et al., &quot;Implementation of an image based focusing algorithm for non-mydriatic retinal imaging&quot;, J. Engineering Mechatronics and Automation (CIIMA), 2014 III International Congress of , pp.1,3, 22-24 Oct. 2014.
-[10.1109/CIIMA.2014.6983425](http://10.1109/CIIMA.2014.6983425)
+A. G. Marrugo et al., &quot;Implementation of an image based focusing algorithm for non-mydriatic retinal imaging&quot;, Engineering Mechatronics and Automation (CIIMA), 2014 III International Congress of , pp.1,3, 22-24 Oct. 2014.
+[doi:10.1109/CIIMA.2014.6983425](http://10.1109/CIIMA.2014.6983425)
 [download pdf](https://github.com/agmarrugo/anisotropy-focus/releases/download/paper/Marrugo_2014.pdf)
 
 Created by Andres Marrugo on 2012-07-10.   
